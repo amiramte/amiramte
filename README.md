@@ -2,17 +2,17 @@
 
 I am a DevOps engineer with a background of Infrastructure and network,
 passionate about solving real-world problems and expert at building scalable and robust systems.
-I love turning ideas into reality and collaborating with others to create meaningful creations including software projects.
+I love turning ideas into reality and collaborating with others to create meaningful creations, including applications and software projects.
 <!--I may introduce myself as an enthusiastic quantum and relativity physics follower -->
 
 ### 🚀 What I Do
-- 🔭 **Currently Working On**: [What you're currently working on, e.g., a web app, a machine learning model, etc.]
-- 🌱 **Currently Learning**: [What you're learning, e.g., React, TensorFlow, etc.]
-- 👯 **Looking to Collaborate On**: [Type of projects you're interested in collaborating on, e.g., open-source, hackathons, etc.]
-- 💬 **Ask Me About**: [Your expertise, e.g., JavaScript, Python, UI/UX design, etc.]
-- 📫 **How to Reach Me**: [Your email or social media links]
-- 😄 **Pronouns**: [Your pronouns, e.g., he/him, she/her, they/them]
-- ⚡ **Fun Fact**: [Something interesting about you, e.g., "I can solve a Rubik's Cube in under 2 minutes!"]
+- 🔭 **Currently Working On**: Hyperledger Fabric as the core of a blockchain project.
+- 🌱 **Currently Learning**: Kubernetes, ECK stack, Ansible
+- 👯 **Looking to Collaborate On**: Blockchain, Infrastructure applications
+- 💬 **Ask Me About**: Docker, Kubernetes, Hyperledger Fabric, ELK
+- 📫 **How to Reach Me**: aat.sampad@gmail.com
+- 😄 **Pronouns**: he/him
+- ⚡ **Fun Fact**: I am interested in Quantum Mechanics and Relativity. 
 
 ---
 
